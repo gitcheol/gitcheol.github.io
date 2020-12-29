@@ -124,9 +124,9 @@ Quick statistic summary df1.describe()
 Ex) Converting to numpy ndarray array1 = df1.to_numpy()
 ```
 
-![image-20201017150730552](/Users/gicheol/gitcheol.github.io/assets/ML/deeplearning/20201017-df_read_csv.png)
+![image-20201017150730552](/assets/ML/deeplearning/20201017-df_read_csv.png)
 
-![image-20201017150542887](/Users/gicheol/gitcheol.github.io/assets/ML/deeplearning/20201017-df_describe().png)
+![image-20201017150542887](/assets/ML/deeplearning/20201017-df_describe().png)
 
 #### Using scikit-learn
 
@@ -284,7 +284,7 @@ plt.show()
 
 ```
 
-![image-20201017155249457](/Users/gicheol/gitcheol.github.io/assets/ML/deeplearning/20201017-pyplot.png)
+![image-20201017155249457](/assets/ML/deeplearning/20201017-pyplot.png)
 
 
 
