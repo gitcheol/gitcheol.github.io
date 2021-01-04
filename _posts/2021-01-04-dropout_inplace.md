@@ -39,8 +39,6 @@ tensor([0.0000, 0.0000, 5.0000, 6.6667, 8.3333])
 
 
 
-
-
 ### Reference 
 
 - https://stackoverflow.com/questions/58589128/what-is-the-meaning-of-in-place-in-dropout
