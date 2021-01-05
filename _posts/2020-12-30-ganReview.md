@@ -3,7 +3,6 @@ title: (review)Generative Adversarial Networks: Introduction and Outlook. arXiv2
 categories: [paper_review]
 comments: true
 
-
 ---
 
 # GAN Review paper
