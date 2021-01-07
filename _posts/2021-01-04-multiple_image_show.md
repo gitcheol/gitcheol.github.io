@@ -1,23 +1,30 @@
 ---
-title: showing multiple image
+title: showing multiple images at once 
 categories: [matplotlib]
 comments: true
 
 ---
 
-# Showing multiple image
+### Showing multiple image at once 
 
 ```python
-import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.pyplot as plt 
 
-fig=plt.figure(figsize=(8, 8))
-columns = 5
-rows = 5
-for i in range(1, columns*rows +1):
-    fig.add_subplot(rows, columns, i) # key function
-    plt.imshow(image_numpy[i-1],cmap='gray')
-    
-plt.show()
+#25 gray scale img(size 28x28)
+image_numpy = np.random.randn(25, 28, 28) 
+
+def show_images(image,s=5):
+  fig=plt.figure(figsize=(5, 5)) 
+  columns = s 
+  rows = s 
+  for i in range(1, columns*rows +1):
+    fig.add_subplot(rows, columns, i)
+    plt.axis('off')
+    plt.imshow(image[i-1],cmap='gray')
+  plt.show()
+
+show_images(image_numpy)
 ```
 
 
