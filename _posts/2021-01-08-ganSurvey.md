@@ -5,6 +5,13 @@ comments: true
 
 ---
 
+---
+title: jupyter_notebook
+caretogires: [dev]
+comments: true
+---
+
+
 
 # GAN Review paper
 
