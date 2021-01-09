@@ -1,8 +1,10 @@
+---
 title: (review)Generative Adversarial Networks: Introduction and Outlook. arXiv2020
 categories: [paper_review]
 comments: true
 
 ---
+
 
 # GAN Review paper
 
