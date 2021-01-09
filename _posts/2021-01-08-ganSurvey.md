@@ -14,10 +14,6 @@ comments: true
    1. progress of GANs before 2017 "Generative Adversarial Networks: Introduction and Outlook" 
    2. progress of GANs before 2018 “How generative adversarial networks and their variants work: An overview,”, “Generative adversarial networks: An overview,” 
 
-
-
-
-
 1. GANs` proposal background, theoretic and implementation models, and application fields.
 2. GANs` advantages and disadvantages, and their development trends.
 

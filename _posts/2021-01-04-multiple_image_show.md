@@ -27,6 +27,16 @@ def show_images(image,s=5):
 show_images(image_numpy)
 ```
 
+### Sample image generation code
+
+```python
+#sample images generation
+z = torch.randn((5*5),100)
+z = z.to(DEVICE)
+Generated_image = G(z)
+image_numpy=Generated_image.view(25, 28, 28).cpu().data.numpy()
+```
+
 
 
 
