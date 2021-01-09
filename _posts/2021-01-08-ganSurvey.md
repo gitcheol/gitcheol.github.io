@@ -1,13 +1,6 @@
 ---
-title: (review)Generative Adversarial Networks: Introduction and Outlook. arXiv2020
-categories: [paper_review]
-comments: true
-
----
-
----
-title: jupyter_notebook
-caretogires: [dev]
+title: (review)Generative Adversarial Networks: Introduction and Outlook.arXiv2020
+caretogires: [paper_review]
 comments: true
 ---
 
