@@ -19,7 +19,7 @@ DeConvolution은 정확히 반대의 연산
 If we wanted to reverse this process, we’d need the inverse mathematical operation so that 9 values are generated from each pixel we input. Afterward, we traverse the output image with a stride of 2. This would be a deconvolution.
 ```
 
-![2](/Users/gicheol/gitcheol.github.io/assets/ML/deeplearning/20210112_deconv2.png)
+![2](/assets/ML/deeplearning/20210112_deconv2.png)
 
 
 
@@ -29,7 +29,7 @@ If we wanted to reverse this process, we’d need the inverse mathematical opera
 A transposed convolution does not do that. The only thing in common is it guarantees that the output will be a 5x5 image as well, while still performing a normal convolution operation. To achieve this, we need to perform some fancy padding on the input.
 ```
 
-![3](/Users/gicheol/gitcheol.github.io/assets/ML/deeplearning/20210112_deconv.png)
+![3](/assets/ML/deeplearning/20210112_deconv.png)
 
 ### 그리면서 하는게 Best
 
@@ -41,7 +41,7 @@ A transposed convolution does not do that. The only thing in common is it guaran
 
 
 
-![sdasd](/Users/gicheol/gitcheol.github.io/assets/ML/deeplearning/20210112_deconv3.png)
+![sdasd](/assets/ML/deeplearning/20210112_deconv3.png)
 
 
 
