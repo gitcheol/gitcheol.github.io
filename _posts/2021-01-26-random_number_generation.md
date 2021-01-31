@@ -1,6 +1,6 @@
 ---
-title: (video)random file name generation
-categories: [paper_review]
+title: random file name generation
+categories: [video]
 comments: true
 
 
@@ -13,7 +13,7 @@ comments: true
 ```python
 import random
 
-img_list = [chr(alpha) for alpha in range(97,123)]
+chr_list = [chr(alpha) for alpha in range(97,123)]
 IMG_File_Extension = '.png'
 
 for i in range(10):
