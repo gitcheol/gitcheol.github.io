@@ -1,6 +1,6 @@
 {
-    "name": "side_project_final",
-    "short_name": "side_project_final",
+    "name": "image_save",
+    "short_name": "image_save",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
